@@ -5,6 +5,7 @@ I originally wanted to make something modular, meaning a data structure that's a
 
 
 ### Resources
+* [The Algorithm Design Manual 3rd Edition](https://www.algorist.com/)
 * [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
 * [How to Create Spatial Hash Maps for XPBD Self Collisions](https://carmencincotti.com/2022-10-31/spatial-hash-maps-part-one/#how-to-hash-a-position)
 * [Hash Table Data Structure](https://www.geeksforgeeks.org/hash-table-data-structure/)
