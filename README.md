@@ -61,7 +61,7 @@ Outputs from the following functions:
 **plot_spatial_hash():**
 ![plot_hash_data](./images/spatial_hash.png)
 
-**plot_spatial_hash():**
+**plot_spatial_voxel():**
 ![plot_hash_data](./images/spatial_hash_voxel.png)
 
 
